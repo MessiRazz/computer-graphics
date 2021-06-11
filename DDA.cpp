@@ -1,3 +1,4 @@
+//program to draw line using DDA line algorithm
 #include<stdio.h>
 #include<graphics.h>
 #include<math.h>
